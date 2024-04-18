@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+	text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="submit"] {
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
